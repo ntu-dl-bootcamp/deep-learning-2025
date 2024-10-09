@@ -1,0 +1,22 @@
+# Setup
+title:               Deep Learning Bootcamp
+tagline:             'By NTU Graduate Students'
+description:         'Website for DL bootcamp'
+url:                 'https://ntu-dl-bootcamp.github.io/'
+baseurl:             'deep-learning-2025/'
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Grads
+  giturl:            'https://github.com/ntu-dl-bootcamp/deep-learning-2025/tree/main'
+  email:             ntu-dl-bootcamp@e.ntu.edu.sg
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
