@@ -28,7 +28,7 @@ title: Meet The Team
   <div class="team-member">
     <img src="{{site.baseurl | prepend: site.url}}public/team_images/eduardo.png" alt="Eduardo">
     <p>Eduardo</p>
-    <p>Second-year Ph.D. student from SCSE. Organizer and Instructor of the first session (DL Essentials).</p>
+    <p>Second-year Ph.D. student from CCDS. Organizer and Instructor of the first session (DL Essentials).</p>
   </div>
 
   <div class="team-member">
@@ -40,13 +40,13 @@ title: Meet The Team
   <div class="team-member">
     <img src="{{site.baseurl | prepend: site.url}}public/team_images/sriram.png" alt="Sriram">
     <p>Sriram</p>
-    <p>First-year Ph.D. student from SCSE. Instructor of the second session (DL with PyTorch).</p>
+    <p>First-year Ph.D. student from CCDS. Instructor of the second session (DL with PyTorch).</p>
   </div>
 
   <div class="team-member">
     <img src="{{site.baseurl | prepend: site.url}}public/team_images/arpita.jpeg" alt="Arpita">
     <p>Arpita</p>
-    <p>First-year Ph.D. student from SCSE. Instructor of the second session (DL with PyTorch).</p>
+    <p>First-year Ph.D. student from CCDS. Instructor of the second session (DL with PyTorch).</p>
   </div>
 
   <div class="team-member">
@@ -58,13 +58,13 @@ title: Meet The Team
   <div class="team-member">
     <img src="{{site.baseurl | prepend: site.url}}public/team_images/alka.png" alt="Alka">
     <p>Alka</p>
-    <p>Third-year Ph.D. student from SCSE. Organizer and Instructor of the fourth session (DL for NLP).</p>
+    <p>Third-year Ph.D. student from CCDS. Organizer and Instructor of the fourth session (DL for NLP).</p>
   </div>
 
   <div class="team-member">
     <img src="{{site.baseurl | prepend: site.url}}public/team_images/tu.jpeg" alt="Tu">
     <p>Tu</p>
-    <p>Second-year Ph.D. student from SCSE. Instructor of the fourth session (DL for NLP).</p>
+    <p>Second-year Ph.D. student from CCDS. Instructor of the fourth session (DL for NLP).</p>
   </div>
 
   
@@ -78,7 +78,7 @@ title: Meet The Team
   <div class="team-member">
     <img src="{{site.baseurl | prepend: site.url}}public/team_images/subrat.png" alt="Subrat">
     <p>Subrat</p>
-    <p>Second-year Ph.D. student from SCSE. Organizer of the boot camp.</p>
+    <p>Second-year Ph.D. student from CCDS. Organizer of the boot camp.</p>
   </div>
 
   
