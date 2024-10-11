@@ -81,6 +81,18 @@ title: Meet The Team
     <p>Second-year Ph.D. student from CCDS. Organizer of the boot camp.</p>
   </div>
 
+  <div class="team-member">
+    <img src="{{site.baseurl | prepend: site.url}}public/team_images/hoang_minh.jpeg" alt="Le Hoang Minh">
+    <p>Le Hoang Minh</p>
+    <p>Second-year Ph.D. student from MAE. Organizer of the boot camp.</p>
+  </div>
+
+  <div class="team-member">
+    <img src="{{site.baseurl | prepend: site.url}}public/team_images/yuqing" alt="Yuqing">
+    <p>Yuqing</p>
+    <p>Second-year Ph.D. student from IGP. Organizer of the boot camp.</p>
+  </div>
+
   
   
 
