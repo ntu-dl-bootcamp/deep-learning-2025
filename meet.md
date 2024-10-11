@@ -88,7 +88,7 @@ title: Meet The Team
   </div>
 
   <div class="team-member">
-    <img src="{{site.baseurl | prepend: site.url}}public/team_images/yuqing" alt="Yuqing">
+    <img src="{{site.baseurl | prepend: site.url}}public/team_images/yuqing.jpeg" alt="Yuqing">
     <p>Yuqing</p>
     <p>Second-year Ph.D. student from IGP. Organizer of the boot camp.</p>
   </div>
