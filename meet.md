@@ -40,7 +40,7 @@ title: Meet The Team
   <div class="team-member">
     <img src="{{site.baseurl | prepend: site.url}}public/team_images/sriram.png" alt="Sriram">
     <p>Sriram</p>
-    <p>First-year Ph.D. student from CCDS. Instructor of the second session (DL with PyTorch).</p>
+    <p>First-year Ph.D. student from CCDS. Organizer and Instructor of the second session (DL with PyTorch).</p>
   </div>
 
   <div class="team-member">
