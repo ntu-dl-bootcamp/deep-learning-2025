@@ -26,13 +26,13 @@ title: Meet The Team
 <div class="team-container">
 
   <div class="team-member">
-    <img src="{{site.baseurl | prepend: site.url}}public/team_images/eduardo.png" alt="Eduardo">
-    <p>Eduardo</p>
-    <p>Second-year Ph.D. student from CCDS. Organizer and Instructor of the first session (DL Essentials).</p>
+    <img src="{{site.baseurl | prepend: site.url}}public/team_images/jooyoung.jpeg" alt="Joo Young">
+    <p>Joo Young</p>
+    <p>First-year Ph.D. student from CCDS. Instructor of the first session (DL Essentials).</p>
   </div>
 
   <div class="team-member">
-    <img src="{{site.baseurl | prepend: site.url}}public/team_images/yasharth.png" alt="Yasharth">
+    <img src="{{site.baseurl | prepend: site.url}}public/team_images/yasharth.JPG" alt="Yasharth">
     <p>Yasharth</p>
     <p>Second-year Ph.D. student from SPMS. Organizer and Instructor of the first session (DL Essentials).</p>
   </div>
@@ -68,6 +68,11 @@ title: Meet The Team
   </div>
 
   
+  <div class="team-member">
+    <img src="{{site.baseurl | prepend: site.url}}public/team_images/eduardo.jpeg" alt="Eduardo">
+    <p>Eduardo</p>
+    <p>Second-year Ph.D. student from CCDS. Organizer of the bootcamp.</p>
+  </div>
 
   <div class="team-member">
     <img src="{{site.baseurl | prepend: site.url}}public/team_images/kivanc.jpeg" alt="Kivanc">
@@ -93,7 +98,19 @@ title: Meet The Team
     <p>Second-year Ph.D. student from IGP. Organizer of the boot camp.</p>
   </div>
 
-  
+  <div class="team-member">
+    <img src="{{site.baseurl | prepend: site.url}}public/team_images/zhongshu.jpeg" alt="Zhongshu">
+    <p>Zhongshu</p>
+    <p>Third-year Ph.D. student from EEE. Organizer of the boot camp.</p>
+  </div>
+
+  <div class="team-member">
+    <img src="{{site.baseurl | prepend: site.url}}public/team_images/chaugiang.jpeg" alt="Chau Giang">
+    <p>Chau Giang</p>
+    <p>Second-year Ph.D. student from MAE. Organizer of the boot camp.</p>
+  </div>
+
+
   
 
 </div>
