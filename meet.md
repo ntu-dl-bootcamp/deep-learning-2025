@@ -44,12 +44,6 @@ title: Meet The Team
   </div>
 
   <div class="team-member">
-    <img src="{{site.baseurl | prepend: site.url}}public/team_images/arpita.jpeg" alt="Arpita">
-    <p>Arpita</p>
-    <p>First-year Ph.D. student from CCDS. Instructor of the second session (DL with PyTorch).</p>
-  </div>
-
-  <div class="team-member">
     <img src="{{site.baseurl | prepend: site.url}}public/team_images/michael.png" alt="Michael">
     <p>Michael</p>
     <p>Third-year Ph.D. student from IGP. Organizer and Instructor of the third session (DL for Images).</p>
@@ -81,15 +75,15 @@ title: Meet The Team
   </div>
 
   <div class="team-member">
-    <img src="{{site.baseurl | prepend: site.url}}public/team_images/subrat.png" alt="Subrat">
-    <p>Subrat</p>
-    <p>Second-year Ph.D. student from CCDS. Organizer of the boot camp.</p>
-  </div>
-
-  <div class="team-member">
     <img src="{{site.baseurl | prepend: site.url}}public/team_images/hoang_minh.jpeg" alt="Le Hoang Minh">
     <p>Le Hoang Minh</p>
     <p>First-year Ph.D. student from MAE. Organizer of the boot camp.</p>
+  </div>
+
+  <div class="team-member">
+    <img src="{{site.baseurl | prepend: site.url}}public/team_images/subrata.jpeg" alt="Subrata">
+    <p>Subrata</p>
+    <p>Second-year Ph.D. student from MSE. Organizer of the boot camp.</p>
   </div>
 
   <div class="team-member">
@@ -109,7 +103,7 @@ title: Meet The Team
     <p>Chau Giang</p>
     <p>Second-year Ph.D. student from MAE. Organizer of the boot camp.</p>
   </div>
-
+    
 
   
 
