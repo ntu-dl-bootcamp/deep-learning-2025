@@ -83,7 +83,7 @@ title: Meet The Team
   <div class="team-member">
     <img src="{{site.baseurl | prepend: site.url}}public/team_images/subrata.jpeg" alt="Subrata">
     <p>Subrata</p>
-    <p>Second-year Ph.D. student from MSE. Organizer of the boot camp.</p>
+    <p>First-year Ph.D. student from CCEB. Organizer of the boot camp.</p>
   </div>
 
   <div class="team-member">
