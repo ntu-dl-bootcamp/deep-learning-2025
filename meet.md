@@ -101,7 +101,7 @@ title: Meet The Team
   <div class="team-member">
     <img src="{{site.baseurl | prepend: site.url}}public/team_images/chaugiang.jpeg" alt="Chau Giang">
     <p>Chau Giang</p>
-    <p>Second-year Ph.D. student from MAE. Organizer of the boot camp.</p>
+    <p>Second-year Masters student from MAE. Organizer of the boot camp.</p>
   </div>
     
 
