@@ -61,6 +61,18 @@ title: Meet The Team
     <p>Second-year Ph.D. student from CCDS. Instructor of the fourth session (DL for NLP).</p>
   </div>
 
+  <div class="team-member">
+    <img src="{{site.baseurl | prepend: site.url}}public/team_images/thien.png" alt="Thien Minh">
+    <p>Thien-Minh Nguyen</p>
+    <p>Research Assistant Professor at Centre for Advanced Robotics Technology Innovation (CARTIN). Instructor of the fifth session (RL).</p>
+  </div>
+
+  <div class="team-member">
+    <img src="{{site.baseurl | prepend: site.url}}public/team_images/xinhang.png" alt="Xinhang">
+    <p>Xinhang Xu</p>
+    <p>Research Associate Delta-NTU Corporate Laboratory. Instructor of the fifth session (RL).</p>
+  </div>
+
   
   <div class="team-member">
     <img src="{{site.baseurl | prepend: site.url}}public/team_images/eduardo.jpeg" alt="Eduardo">
